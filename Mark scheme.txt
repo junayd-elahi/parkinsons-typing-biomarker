@@ -1,0 +1,81 @@
+
+Project Submission Requirements
+There are 3 deliverables for your final project submission. 
+
+    Project Report.
+    Please use the final report template under Templates in the Quick Links above to write your final report.
+    Product (development).
+    Project Demo (poster).
+
+
+
+
+ 
+Marking criteria
+for your final project submission as extracted from the module handbook
+ 
+>89% 	Meets all criteria. Shows a significant amount of critical analysis and exhibits an excellent understanding of the relevant issues. Product meets requirements..
+80-89% 	Meets all the criteria. Demonstrates clear awareness and exposition of the relevant issues with a very high standard of critical analysis. Product meets requirements.
+70-79% 	Meets almost all of the criteria. Demonstrates clear awareness of relevant issues with a high standard of critical analysis. Appropriate use of analysis and design frameworks. Product meets all requirements.
+60-69% 	Meets most of the criteria. Demonstrates clear awareness of relevant issues with a very good standard of critical analysis. Very good analysis and design using appropriate frameworks, but may include some errors. Product meets almost all of the requirements.
+50-59% 	Some of the criteria present, but mainly factual and descriptive, with some grasp of analysis. The analysis and design use appropriate frameworks but may have some errors. Product meets most of the requirements.
+40-49% 	The essential criteria present and establish a few relevant points, but superficial or confused exposition of issues with little grasp of analysis. An attempt has been made at analysis using appropriate frameworks, but there are many errors. Product meets the essential functional requirements.
+<40% 	Little or no evidence of given criteria and no grasp of analysis. Does not demonstrate self-direction, originality in problem solving or a critical self-evaluation of the project process. Product meets very few of the product requirements.
+
+Comments on the Standard of Presentation
+
+The final report should have a length of 10,000 - 12,000 words. The report must also demonstrate an appropriate command of the rules of report layout, spelling, punctuation, grammar, syntax with due regard to the use of figures, diagrams and references. Where a candidate fails to satisfy assessors with respect to these rules the grade awarded should reflect this. Note: All technical documentation should be provided as Appendices and can be excluded from the word count.
+
+Understanding of the Problem Domain
+
+This section is about assessing the student’s ability to identify and investigate a suitable problem, and follow an appropriate project methodology to solve the problem.
+
+    Identified an area to research or investigate and a problem to be solved
+    Demonstrated understanding of the problem domain
+    Shown how project objectives were formed and project planning took place
+    Discussed the research or investigation within the context of the project
+    Critical evaluation (of the appropriateness) of the current thinking on the research area
+    Compared similar products and systems
+    Selected suitable criteria for the development of the product and ideas
+    Chosen appropriate tools for modelling and development
+    Production of requirements specification/client brief of suitable complexity
+    Identified any legal, social, ethical and professional issues that are relevant to the project
+
+Development of Product and Ideas
+
+This section is about assessing the level of development and the student’s competency within the context of the chosen topic area.
+
+    Use of suitable data collection techniques
+    Use of suitable analysis tools to evaluate data
+    Demonstrated complexity in the design and implementation of the product
+    Discussed the development process
+    Shown that a number of alternative approaches have been considered
+    Explained the reasons for selecting a particular solution
+    Demonstrated changes in the project plan and the stages of development progress (incremental development verified during supervision/progress meetings and shared repositories (GitHub))
+    Resolution of relevant legal, social, ethical or professional issues
+
+Product Build and Evaluation
+
+This section is about assessing the student’s ability to present their completed work and discuss issues of quality, usability, etc.
+
+    Demonstrated technical ability in building the product
+    Demonstrated the full scope of product developed
+    Clear plan of how the hypothesis might be tested
+    In-depth investigation of the context/literature/other relevant products
+    A reasoned thread going throughout the project
+    Shown that the product has been tested and evaluated appropriately
+    Discussed the quality of the product in relation to original objectives and criteria
+    Demonstrated the usability and appropriateness of the product for the problem domain
+    Identified where and how improvement can be made
+
+Conclusions and Critical Review
+
+This section is about assessing the student’s ability to be critical of their own work and show reflective thinking.
+
+    Demonstrated critical thinking in writing up the project
+    Discussed lessons learnt whilst completing the project
+    Identified any problems encountered and discussed how they were tackled
+    Identified mistakes made and lessons learnt
+    Reflected on how the project plan changed during the development
+    Made suggestions as to how the work can be improved
+    Identified how the project might be taken further or expanded
