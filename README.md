@@ -51,7 +51,6 @@ leakage.
 │   └── 07_plots.py        # figures from the generated result workbooks
 ├── data/                  # dataset goes here (not committed - see data/README.md)
 ├── requirements.txt
-├── LICENSE
 └── README.md
 ```
 

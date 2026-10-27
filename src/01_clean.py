@@ -1,8 +1,8 @@
 import os
 import pandas as pd
 
-tappy_dataset = os.path.join("Tappy Data")
-archived_users = os.path.join("Archived users")
+tappy_dataset = os.path.join("data", "Tappy Data")
+archived_users = os.path.join("data", "Archived users")
 output_csv = "Tappy_Data_Cleaned.csv"
 
 def load_user_metadata(folder_path):
